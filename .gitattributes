@@ -1,0 +1,2 @@
+backend/yolo_model/yolov5lu.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
